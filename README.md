@@ -69,7 +69,7 @@ database to answer the following questions:
 ## **Submitting your work** 
 
 Submissions can be submitted as a zip file of your work emailed to
-aweisgrau@workingfamilies.org or as a pull request against **your** fork
+cdragon@workingfamilies.org or as a pull request against **your** fork
 of the original repository. Please do not submit a pull request to the
 original repository.
 
